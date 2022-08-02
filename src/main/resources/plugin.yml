@@ -1,0 +1,4 @@
+name: Coinapi
+version: '${project.version}'
+main: at.blank.coinapi.Coinapi
+api-version: 1.19
